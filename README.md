@@ -5,7 +5,7 @@
 使用 Windows 命令提示字元 CMD 腳本
 目前僅支援繁體中文。
 
-===自動關機定時器0.7===
+===自動關機定時器0.8===
 **腳本目的**
 該腳本用於設定和啟動自動關機定時器，可讓您在特定時間內關閉或重新啟動計算機，或在特定進程關閉時自動關閉計算機，並進入計算機的BIOS設定。
 -------------------------------------------------- --------------------------
@@ -47,4 +47,5 @@
 # The original code uses Big5 encoding, not UTF-8.
 #
 # If you view the file of this code and see garbled characters, it means that your Unicode encoding format is wrong. The Unicode encoding format of the original code is UTF-16 LE, not UTF-8.
+
 
